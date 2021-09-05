@@ -1,0 +1,5 @@
+package dev.heroes.jparepository.controllers;
+
+public class UserController {
+
+}

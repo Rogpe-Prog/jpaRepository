@@ -1,0 +1,5 @@
+package dev.heroes.jparepository.repositories;
+
+public interface UserRepository {
+
+}

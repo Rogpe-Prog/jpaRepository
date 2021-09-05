@@ -1,0 +1,10 @@
+package dev.heroes.jparepository.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import dev.heroes.jparepository.entities.User;
+
+public interface UserRepository extends JpaRepository<User, Long> {
+
+	
+}
